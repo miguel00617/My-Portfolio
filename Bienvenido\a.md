@@ -1,7 +1,7 @@
 #Introducción
 
 #Análisis de Datos
-Si estás aquí es que te he compartido mi portafolio de Ciencia de Datos, lo cuál incluirá tanto bases de datos, análisis de datos, visualización de datos y ciencia de datos.
+Si estás aquí es que te he compartido mi portafolio de Ciencia de Datos, lo cuál incluirá tanto bases de datos, análisis de datos, visualización de datos, ciencia de datos(creación de algoritmos de machine learning) y de ingeniería de datos.
 
 El Primer proyecto consta de una base de datos generada en MYSQL Workbench, datos no reales, basado en una distribuidora de productos para mascotas, desde alimentos hasta accesorios. Creando de paso tablas con conexión entre ellas, y la generación de nuevas tablas a partir de consultas y transformación de datos(Base de Datos en MySQL Workbench).(https://github.com/miguel00617/Database-Missi-Pet).
 
@@ -12,6 +12,6 @@ El Tercer Proyecto se compone por la carga, transformación de datos en el entor
 
  El Cuarto Proyecto trata de un Análisis de datos realizado en el lenguaje R, en el entorno de RStudio, a partir de un data set de. Importando dichos archivos, comienza su transformación y normalización de los datos y por último su visualización. 
 
- Consideraciones: Estos proyectos son los principales, a medida que pase el tiempo iré subiendo mini proyectos, cabe aclarar que los datos analizados son data sets y datos no reales, pero se llevan a cabo estas prácticas en pequeños negocios y comercios de conocidos.
+ Consideraciones: Estos proyectos son los principales, a medida que pase el tiempo iré subiendo mini proyectos, cabe aclarar que los datos analizados son data sets y datos no reales, pero se llevan a cabo estas prácticas en pequeños negocios y comercios de conocidos y familiares.
 
  #Ciencia de Datos
