@@ -10,7 +10,7 @@ El Segundo Proyecto esta compuesto por la carga y transformación de datos en el
 El Tercer Proyecto se compone por la carga, transformación de datos en el entorno de Jupyter Notebook, a partir de dos archivos .xslx
  descargados de la página oficial de la Ciudad Autónoma de Buenos Aires(https://data.buenosaires.gob.ar/dataset/delitos), extrayendo los dos archivos del año 2019 y 2023, que tratan acerca de los Delitos en todas sus formas llevados a cabo en ambos años, analizando cada detalle y posteriormente visualizando sus diferencias y como la seguridad puede reforzarse(https://github.com/miguel00617/AD-con-Python).
 
- El Cuarto Proyecto trata de un Análisis de datos realizado en el lenguaje R, en el entorno de RStudio, a partir de un data set de. Importando dichos archivos, comienza su transformación y normalización de los datos y por último su visualización. 
+ El Cuarto Proyecto trata de un Análisis de datos realizado en el lenguaje R, en el entorno de RStudio, a partir de data sets, descargados de la página oficial del gobierno de la ciudad, dos data sets(un del 2020 y otro del 2024) donde ambos almacenan datos de manera tabular de los contagios del Covid-19 y su progreso. Importando dichos archivos, comienza su transformación y normalización de los datos y por último su visualización, viendo gráficamente sus cambios y mejoras(https://github.com/miguel00617/AD-R). 
 
  Consideraciones: Estos proyectos son los principales, a medida que pase el tiempo iré subiendo mini proyectos, cabe aclarar que los datos analizados son data sets y datos no reales, pero se llevan a cabo estas prácticas en pequeños negocios y comercios de conocidos y familiares.
 
