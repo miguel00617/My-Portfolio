@@ -16,9 +16,9 @@ El Tercer Proyecto se compone por la carga, transformación de datos en el entor
 
  #Ciencia de Datos
 
- El Quinto Proyecto nos presenta
+ El Quinto Proyecto nos presenta un modelo de Machine learning, basado en la Regresión Lineal(simple como múltiple), calculando el valor aproximado de una casa, teniendo en cuenta ciertas variables. Se usa el lenguaje Python, y se desarrolla la primera instancia en Jupyter notebook, siendo solamente Regresión Lineal Simple(pasando primero por limpieza, análisis, y entrenamiento), la segunda instancia, en Visual Studio Code, siendo una interfaz gráfica por streamlit. Nos basamos en un Data set creado por la IA, Claude. El modelo aprende los datos, su relacción y como conducen a sus distintas salidas, mostrando su precio aproximado(https://github.com/miguel00617/RegresionLineal_Proyecto).
 
  El Sexto Proyecto nos muestra como es por medio de la regresión Logística(diferente a la lineal), se puede calcular la probabilidad de padecer diabetes, está principalmente dirigido a las personas nacidas biológicamente mujeres. Se usa el lenguaje Python, desarrollado en primera instancia en Jupyter Notebook(limpieza, análisis y entrenamiento de modelo), y en Visual Studio Code, la interfaz web, por medio de streamlit. Nos basamos en un Data set de Kaggle, donde almacena mas de 500 pacientes de muestra, sus características, y si tienen o no diabetes. El modelo recoje los datos, los analiza y se lo entrena para que aprenda las similitudes, y la relación entre las variables, y la probabilidad(mostrada en porcentaje) de tener diabetes(https://github.com/miguel00617/Regresion-Logistica-Diabetes).
 
 
- El Séptimo Proyecto..
+ El Séptimo Proyecto
