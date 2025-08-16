@@ -15,3 +15,10 @@ El Tercer Proyecto se compone por la carga, transformación de datos en el entor
  Consideraciones: Estos proyectos son los principales, a medida que pase el tiempo iré subiendo mini proyectos, cabe aclarar que los datos analizados son data sets y datos no reales, pero se llevan a cabo estas prácticas en pequeños negocios y comercios de conocidos y familiares.
 
  #Ciencia de Datos
+
+ El Quinto Proyecto nos presenta
+
+ El Sexto Proyecto nos muestra como es por medio de la regresión Logística(diferente a la lineal), se puede calcular la probabilidad de padecer diabetes, está principalmente dirigido a las personas nacidas biológicamente mujeres. Se usa el lenguaje Python, desarrollado en primera instancia en Jupyter Notebook(limpieza, análisis y entrenamiento de modelo), y en Visual Studio Code, la interfaz web, por medio de streamlit. Nos basamos en un Data set de Kaggle, donde almacena mas de 500 pacientes de muestra, sus características, y si tienen o no diabetes. El modelo recoje los datos, los analiza y se lo entrena para que aprenda las similitudes, y la relación entre las variables, y la probabilidad(mostrada en porcentaje) de tener diabetes(https://github.com/miguel00617/Regresion-Logistica-Diabetes).
+
+
+ El Séptimo Proyecto..
